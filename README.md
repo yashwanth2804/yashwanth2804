@@ -17,10 +17,10 @@
 
 ## Current Projects
 - **[Ticker Symbol](https://github.com/yashwanth2804/TickerSymbol)** - A simple and free ticker symbol search api end point to get stock names and symbol
-- **[Linear Gitlab Extention](https://github.com/yashwanth2804/Linear-gitlab-extention) - A browser extension that enhances the integration between Linear.app and GitLab
+- **[Linear Gitlab Extention](https://github.com/yashwanth2804/Linear-gitlab-extention)** - A browser extension that enhances the integration between Linear.app and GitLab
 
 ## Hackathons
-- **[XRPL-hackathon](https://github.com/yashwanth2804/XRPL-hackathon) - This project aims to help hotel admins to take back their share in the market place , using this hotel booking system they can rely less and less on the middle man and the payment processors 
+- **[XRPL-hackathon](https://github.com/yashwanth2804/XRPL-hackathon)** - This project aims to help hotel admins to take back their share in the market place , using this hotel booking system they can rely less and less on the middle man and the payment processors 
 
 <!--
 **yashwanth2804/yashwanth2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
