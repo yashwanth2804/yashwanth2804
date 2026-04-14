@@ -13,6 +13,9 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 
+
+> Full stack AI dev with 9+ YoE in building AI powered saas tools
+
 <!--
 **yashwanth2804/yashwanth2804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
