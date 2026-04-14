@@ -18,6 +18,7 @@
 ## Current Projects
 - **[Ticker Symbol](https://github.com/yashwanth2804/TickerSymbol)** - A simple and free ticker symbol search api end point to get stock names and symbol
 - **[Linear Gitlab Extention](https://github.com/yashwanth2804/Linear-gitlab-extention)** - A browser extension that enhances the integration between Linear.app and GitLab
+- **[Uber Bike Pothole Tracker](https://github.com/yashwanth2804/pothole-tracker-rideshare)**  - A high-fidelity simulation designed to solve the challenge of road maintenance through virtual telemetry. This project models "Uber Bikes" equipped with GPS and Accelerometers traversing a procedurally generated city, logging road anomalies, and reconstructing global pothole maps from noisy, real-world sensor data.
 
 ## Hackathons
 - **[XRPL-hackathon](https://github.com/yashwanth2804/XRPL-hackathon)** - This project aims to help hotel admins to take back their share in the market place , using this hotel booking system they can rely less and less on the middle man and the payment processors 
